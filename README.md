@@ -27,11 +27,6 @@ Mysterio even came out of recovery to make the announcemnt, Darkdawg Arcade team
   <img src="https://github.com/ArcadeHustle/X3_Multi_Eye_for_an_Eye/blob/master/rey.jpg"><br>https://www.wwe.com/shows/extremerules/article/update-rey-mysterio-eye-for-an-eye-match
 </p>
 
-Rumor has it that fears of COVID19 are what Mitsu and Dark are hanging their hats on as opposed to admiting their fear. Having nearly lost Brizzo earlier in the year after 
-he announced that he had "got home from <his> last trip for the year on Nov 25, and <has> been beyond sick since", the Darkdawg team seems weary to lose any steam. 
-https://www.arcade-projects.com/forums/index.php?thread/9697-brezzasoft-crystal-system-conversions/&postID=186286
-<img src="https://github.com/ArcadeHustle/X3_Multi_Eye_for_an_Eye/blob/master/badbrizzo.png">
-
 WWE Ryback did say "Now is the time for ALL wrestling talent to stand together and refuse to perform", but this does not make the refusal any less disrespectful in this case!
 <img src="https://github.com/ArcadeHustle/X3_Multi_Eye_for_an_Eye/blob/master/ryback.png"><br>
 https://twitter.com/Ryback/status/1249373453175537664
@@ -101,11 +96,11 @@ This translates to: opentdeg
 
 With this password you simply need to disable the onboard security checks 
 
-<screenshot here>
-
 # Stage 3 
 
 Without further delay, the multi image in both Yoko, and Tate... 
+https://archive.org/details/x-3-multi-jvs-tate-no-roms.-7z
+(Yoko will be up soon)
 
 Have fun! Be safe! We will be back with more soon.
 
