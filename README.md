@@ -42,11 +42,11 @@ Even though Mitsurugi_w, Darksoft, and their ringside manager Brizzo all continu
 
 The Mitsu+Dark Eye for an Eye match had been a long time coming... It is a shame the team has snubbed the match. Just over a year ago the roots of this release were shared in it's sister writeup. https://github.com/ArcadeHustle/X3_USB_softmod. 
 
-Immediately after the writeup came out, the Darkdawg arcade team began throwing salt as if Mr. Fuji had come out of retirement. https://en.wikipedia.org/wiki/Mr._Fuji Fuji, not at all unlike Brizzo was famous for often throwing salt in the eyes of fan favorite wrestlers!<br>
+Immediately after the writeup came out, the Darkdawg arcade team began throwing salt as if Mr. Fuji had come out of retirement. https://en.wikipedia.org/wiki/Mr._Fuji. Fuji, not at all unlike Brizzo was famous for often throwing salt in the eyes of fan favorite wrestlers!<br>
 <img src="https://github.com/ArcadeHustle/X3_Multi_Eye_for_an_Eye/blob/master/fuji.jpg">
 
 Not fully understanding the technical relevance of the last release Mitsu began claiming it was "incomplete", as well as "fake".
-The repo was deemed to be nothing more than "incomplete info about enabling file sharing access on an old outdated version of windows 7."
+The git repo was deemed to be nothing more than "incomplete info about enabling file sharing access on an old outdated version of windows 7."
 There was a challenge that "If you read that github page and come out of it with a working multi then let us know". 
 Of course, although it was fake, it was reaffirmed "The info itself is not new or special. It's all over the web anyways". 
 https://www.arcade-projects.com/forums/index.php?thread/10038-fake-arcade-projects-twitter-account/&postID=161781#post161781
@@ -54,7 +54,7 @@ https://www.arcade-projects.com/forums/index.php?thread/10038-fake-arcade-projec
 Ekorz or course can spot a fake from a mile away, and also declared the information appropriately as such: "it’s fake"
 https://www.arcade-projects.com/forums/index.php?thread/10038-fake-arcade-projects-twitter-account/&postID=161785#post161785
 
-Over a year ago, this fake work casually began, and now a year later is has been casually completed. 
+Someon accepted the challenge over a year ago, and this fake work casually began, now a year later is has been casually completed. 
 https://www.youtube.com/watch?v=ov-jTtpnoco&feature=youtu.be
 
 In the mean time private sales of NXL2 games have increased in private messages & DM's on Arcade Projects, UKVAC, and Facebook. 
