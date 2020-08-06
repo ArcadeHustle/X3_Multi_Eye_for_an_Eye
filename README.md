@@ -1,7 +1,7 @@
 *Reminder, if you like these repos, fork them so they don't disappear* 
 https://github.com/ArcadeHustle/RingEdge_NoKey_softmod/fork
 
-Big thanks to Mitsurugi_w, Darksoft, MetalliC, and Brizzo of Arcade Projects for finally allowing this to be published.
+Big thanks to Mitsurugi_w, Darksoft, and Brizzo of Arcade Projects for finally allowing this to be published.
 - written by hostile, with supporting information from the community at large!
 
 <p align="center">
@@ -13,50 +13,45 @@ Big thanks to Mitsurugi_w, Darksoft, MetalliC, and Brizzo of Arcade Projects for
 </p>
 
 # Stage One: Eye for an Eye!!
-Not once since the Montreal Screwjob have WWE / WWF fans had to endure such an atrocity as we just witnessed... https://en.wikipedia.org/wiki/Montreal_Screwjob
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/4/46/Seriesscrewjob.jpg">
 </p>
+Not once since the Montreal Screwjob have WWE / WWF fans had to endure such an atrocity as we just witnessed... https://en.wikipedia.org/wiki/Montreal_Screwjob
 
 In an unprecidented refusal, Mitsurugi & Darksoft have NOT accepted the Eye for an Eye challenge issued by Rey Mysterio on behalf of the Arcade Hustle tag team. 
-Seemingly afraid the fact that the Arcade Hustle team would have taken "both their eyes", the Darkdawg Arcade team spokesman Mitsu remains silent to this day 
+Seemingly afraid of the fact that the Arcade Hustle team would have taken "both their eyes", the Darkdawg Arcade team spokesman Mitsu remains silent to this day 
 regarding the proposal to have an Eye for an Eye match. 
 
-Rey Mysterio even came out of recovery to make the announcemnt, and the Darkdawg Arcade team still snubbed his offer. 
+Rey Mysterio even came out of recovery to make the announcemnt, and the Darkdawg Arcade team still snubbed his offer.<br>
 [![Eye for Eye](http://img.youtube.com/vi/OIGluLvyM90/0.jpg)](https://www.youtube.com/watch?v=OIGluLvyM90)<br>
 
-https://www.wwe.com/shows/extremerules/article/update-rey-mysterio-eye-for-an-eye-match
 <p align="center">
-  <img src="https://www.wwe.com/f/styles/talent_champion_full/public/all/2020/07/XRULES_07192020CG_03335--1a978f9f7d5549f3aafb66e68658192d.jpg">
+  <img src="https://www.wwe.com/f/styles/talent_champion_full/public/all/2020/07/XRULES_07192020CG_03335--1a978f9f7d5549f3aafb66e68658192d.jpg"><br>https://www.wwe.com/shows/extremerules/article/update-rey-mysterio-eye-for-an-eye-match
 </p>
 
 Rumor has it that fears of COVID19 are what Mitsu and Dark are hanging their hats on as opposed to admiting their fear. Having nearly lost Brizzo earlier in the year after 
 he announced that he had "got home from <his> last trip for the year on Nov 25, and <has> been beyond sick since", the Darkdawg team seems weary to lose any steam. 
 https://www.arcade-projects.com/forums/index.php?thread/9697-brezzasoft-crystal-system-conversions/&postID=186286
 
-<iframe src="https://giphy.com/embed/hqyghxPJECiDt3VITP" width="480" height="411" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
-
 Ryback did say "Now is the time for ALL wrestling talent to stand together and refuse to perform", but this does not make the refusal any less disrespectful in this case!
 https://twitter.com/Ryback/status/1249373453175537664
 
-Even though Mitsurugi_w, Darksoft, and their ringside manager Brizzo all continue to refuse to perform, we know the show must go on! 
-
-After the sickening Darkdawg Arcade team refusal to participate in the Eye for an Eye Match, the only thing to make it right will be for an X3 multi to be released.
+Even though Mitsurugi_w, Darksoft, and their ringside manager Brizzo all continue to refuse to perform, we know the show must go on! After the sickening Darkdawg Arcade team refusal to participate in the Eye for an Eye Match, the only thing to make it right will be for an X3 multi to be released.
 
 # Stage 1 
 
 This Eye for an Eye match has been a long time coming... just over a year ago the roots of this release were shared in it's sister writeup. https://github.com/ArcadeHustle/X3_USB_softmod
 
 Immediately the Darkdawg arcade team began throwing salt as if Mr Fuji had come out of retirement. https://en.wikipedia.org/wiki/Mr._Fuji<br>
-Fuji, not unlike Brizzo was famous for often throwing salt in the eyes of fan favorite wrestlers 
+Fuji, not unlike Brizzo was famous for often throwing salt in the eyes of fan favorite wrestlers!
 
-Not fully understanding the technical relevancy of the release Mitsu began claiming it was "incomplete", as well as "fake".
-This repo was deemed to be nothing more than "incomplete info about enabling file sharing access on an old outdated version of windows 7."
+Not fully understanding the technical relevance of the last release Mitsu began claiming it was "incomplete", as well as "fake".
+The repo was deemed to be nothing more than "incomplete info about enabling file sharing access on an old outdated version of windows 7."
 There was a challenge that "If you read that github page and come out of it with a working multi then let us know". 
 Of course, although it was fake, it was reaffirmed "The info itself is not new or special. It's all over the web anyways". 
 https://www.arcade-projects.com/forums/index.php?thread/10038-fake-arcade-projects-twitter-account/&postID=161781#post161781
 
-Ekorz or course can spot a fake from a mile away, and also declared the information appropriately: "it’s fake"
+Ekorz or course can spot a fake from a mile away, and also declared the information appropriately as such: "it’s fake"
 https://www.arcade-projects.com/forums/index.php?thread/10038-fake-arcade-projects-twitter-account/&postID=161785#post161785
 
 Over a year ago, this fake work casually began, and now a year later is has been casually completed. 
@@ -67,7 +62,7 @@ In the mean time private sales of NXL2 games have increased in private messages 
 "PM incoming." - Rewrite
 https://www.arcade-projects.com/forums/index.php?thread/10328-type-x3-nessica-live-offline/&postID=166588
 
-Sales kicked up so quickly that the forum on AP needed to be deleted. Lets pour out some liquor for it, just like we did the Nu forum. 
+Sales kicked up so quickly that the Taito X3 forum on Arcade Projects needed to be deleted with malice! Lets pour out some liquor for it, just like we did the Nu forum before it. 
 https://www.arcade-projects.com/forums/index.php?thread/12590-lets-talk-taito-type-x3/ (dead)
 https://twitter.com/arcade_projects/status/1283446572076937217
 https://twitter.com/arcade_projects/status/1283447616077012994
