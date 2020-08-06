@@ -33,7 +33,7 @@ https://www.arcade-projects.com/forums/index.php?thread/9697-brezzasoft-crystal-
 <img src="https://github.com/ArcadeHustle/X3_Multi_Eye_for_an_Eye/blob/master/badbrizzo.png">
 
 Ryback did say "Now is the time for ALL wrestling talent to stand together and refuse to perform", but this does not make the refusal any less disrespectful in this case!
-<img src="https://github.com/ArcadeHustle/X3_Multi_Eye_for_an_Eye/blob/master/ryback.jpg">
+<img src="https://github.com/ArcadeHustle/X3_Multi_Eye_for_an_Eye/blob/master/ryback.png"><br>
 https://twitter.com/Ryback/status/1249373453175537664
 
 Even though Mitsurugi_w, Darksoft, and their ringside manager Brizzo all continue to refuse to perform, we know the show must go on! After the sickening Darkdawg Arcade team refusal to participate in the Eye for an Eye Match, the only thing to make it right will be for an X3 multi to be released.
