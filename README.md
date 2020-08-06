@@ -32,7 +32,7 @@ he announced that he had "got home from <his> last trip for the year on Nov 25, 
 https://www.arcade-projects.com/forums/index.php?thread/9697-brezzasoft-crystal-system-conversions/&postID=186286
 <img src="https://github.com/ArcadeHustle/X3_Multi_Eye_for_an_Eye/blob/master/badbrizzo.png">
 
-Ryback did say "Now is the time for ALL wrestling talent to stand together and refuse to perform", but this does not make the refusal any less disrespectful in this case!
+WWE Ryback did say "Now is the time for ALL wrestling talent to stand together and refuse to perform", but this does not make the refusal any less disrespectful in this case!
 <img src="https://github.com/ArcadeHustle/X3_Multi_Eye_for_an_Eye/blob/master/ryback.png"><br>
 https://twitter.com/Ryback/status/1249373453175537664
 
