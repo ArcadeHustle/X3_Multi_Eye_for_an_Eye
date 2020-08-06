@@ -13,10 +13,8 @@ Big thanks to Mitsurugi_w, Darksoft, and Brizzo of Arcade Projects for finally a
 </p>
 
 # Stage One: Eye for an Eye!!
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/46/Seriesscrewjob.jpg">
-</p>
 Not once since the Montreal Screwjob have WWE / WWF fans had to endure such an atrocity as we just witnessed... https://en.wikipedia.org/wiki/Montreal_Screwjob
+<img src="https://upload.wikimedia.org/wikipedia/en/4/46/Seriesscrewjob.jpg">
 
 In an unprecidented refusal, Mitsurugi & Darksoft have NOT accepted the Eye for an Eye challenge issued by Rey Mysterio on behalf of the Arcade Hustle tag team. 
 Seemingly afraid of the fact that the Arcade Hustle team would have taken "both their eyes", the Darkdawg Arcade team spokesman Mitsu remains silent to this day 
