@@ -62,11 +62,17 @@ In the mean time private sales of NXL2 games have increased in private messages 
 "PM incoming." - Rewrite
 https://www.arcade-projects.com/forums/index.php?thread/10328-type-x3-nessica-live-offline/&postID=166588
 
-Sales kicked up so quickly that the Taito X3 forum on Arcade Projects needed to be deleted with malice! Lets pour out some liquor for it, just like we did the Nu forum before it. 
+Sales kicked up so quickly that the Taito X3 forum on Arcade Projects needed to be deleted with malice! 
 https://www.arcade-projects.com/forums/index.php?thread/12590-lets-talk-taito-type-x3/ (dead)
 https://twitter.com/arcade_projects/status/1283446572076937217
 https://twitter.com/arcade_projects/status/1283447616077012994
  
+Lets pour out some liquor for it, just like we did the Sega Ringedge, Ringwide and Nu subgroup before it! May they both Rest In Peace!<br>
+[![liquor pour](http://img.youtube.com/vi/oK9gLkXe0xw/0.jpg)](https://www.youtube.com/watch?v=oK9gLkXe0xw)<br>
+https://web.archive.org/web/20171014003744/http://www.arcade-projects.com/forums/index.php?board/73-sega-ringedge-ringwide-and-nu/
+
+Profits have increased during the transtion from private sales of USF4, to private sales of SFV and Samurai Showdown as a newer alternative. 
+
 "P&D runs on lower spec hardware but can be converted to USF4 by some people."
 https://www.arcade-projects.com/forums/index.php?thread/9041-x3-street-fighter-iv-ultra-version-info/
 
@@ -76,8 +82,7 @@ https://twitter.com/arcade_projects/status/1263123935127834624
 # Stage 2 
 
 Lets cut to the chase... making a multi on X3 is simple. First you are going to need to get into the bios. You may think to try "open says a me!" as the password, instead
-I suggest "open you" in Norweigan instead. 
-https://translate.google.com/#view=home&op=translate&sl=auto&tl=en&text=opent%20deg
+I suggest "open you" in Norweigan instead. https://translate.google.com/#view=home&op=translate&sl=auto&tl=en&text=opent%20deg
 
 The key sequence to get into the BIOS has been previosuly been disclosed for other Taito X pedigrees. The same sequence works on X3. 
 Ctrl + Alt + F9
@@ -104,6 +109,12 @@ Without further delay, the multi image in both Yoko, and Tate...
 
 Have fun! Be safe! We will be back with more soon.
 
+Simply enter the password shown above in the BIOS.<br>
+<img src="https://github.com/ArcadeHustle/X3_Multi_Eye_for_an_Eye/blob/master/IMG_1393.jpg">
+
+Disable security, write yourself a new drive, and enjoy!<br>
+<img src="https://github.com/ArcadeHustle/X3_Multi_Eye_for_an_Eye/blob/master/IMG_1394.jpg">
+ 
 Official video tutorial for the Taito X3 Multi - Eye for an Eye edition, by Mitsu (as usual!) can be found here: https://www.youtube.com/watch?v=l0nq1pQXX90
 
 
