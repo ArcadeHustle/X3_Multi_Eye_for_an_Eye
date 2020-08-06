@@ -20,7 +20,7 @@ In an unprecidented refusal, Mitsurugi_w & Darksoft have NOT accepted the Eye fo
 Seemingly afraid of the fact that the Arcade Hustle team would have taken "both their eyes", the Darkdawg Arcade team spokesman Mitsu remains silent to this day 
 regarding the proposal to have an Eye for an Eye match. 
 
-Rey Mysterio even came out of recovery to make the announcemnt, and the Darkdawg Arcade team still snubbed his offer.<br>
+Mysterio even came out of recovery to make the announcemnt, Darkdawg Arcade team still snubbed his offer!<br>
 [![Eye for Eye](http://img.youtube.com/vi/OIGluLvyM90/0.jpg)](https://www.youtube.com/watch?v=OIGluLvyM90)<br>
 
 <p align="center">
