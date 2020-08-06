@@ -24,7 +24,7 @@ Mysterio even came out of recovery to make the announcemnt, Darkdawg Arcade team
 [![Eye for Eye](http://img.youtube.com/vi/OIGluLvyM90/0.jpg)](https://www.youtube.com/watch?v=OIGluLvyM90)<br>
 
 <p align="center">
-  <img src="https://github.com/ArcadeHustle/X3_Multi_Eye_for_an_Eye/blob/master/rey.png"><br>https://www.wwe.com/shows/extremerules/article/update-rey-mysterio-eye-for-an-eye-match
+  <img src="https://github.com/ArcadeHustle/X3_Multi_Eye_for_an_Eye/blob/master/rey.jpg"><br>https://www.wwe.com/shows/extremerules/article/update-rey-mysterio-eye-for-an-eye-match
 </p>
 
 Rumor has it that fears of COVID19 are what Mitsu and Dark are hanging their hats on as opposed to admiting their fear. Having nearly lost Brizzo earlier in the year after 
