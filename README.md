@@ -42,7 +42,7 @@ Even though Mitsurugi_w, Darksoft, and their ringside manager Brizzo all continu
 
 The Mitsu+Dark Eye for an Eye match had been a long time coming... It is a shame the team has snubbed the match. Just over a year ago the roots of this release were shared in it's sister writeup. https://github.com/ArcadeHustle/X3_USB_softmod. 
 
-Immediately after the writeup came out, the Darkdawg arcade team began throwing salt as if Mr. Fuji had come out of retirement. https://en.wikipedia.org/wiki/Mr._Fuji Fuji, not at all unlike Brizzo was famous for often throwing salt in the eyes of fan favorite wrestlers!
+Immediately after the writeup came out, the Darkdawg arcade team began throwing salt as if Mr. Fuji had come out of retirement. https://en.wikipedia.org/wiki/Mr._Fuji Fuji, not at all unlike Brizzo was famous for often throwing salt in the eyes of fan favorite wrestlers!<br>
 <img src="https://github.com/ArcadeHustle/X3_Multi_Eye_for_an_Eye/blob/master/fuji.jpg">
 
 Not fully understanding the technical relevance of the last release Mitsu began claiming it was "incomplete", as well as "fake".
