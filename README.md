@@ -14,7 +14,7 @@ Big thanks to Mitsurugi_w, Darksoft, and Brizzo of Arcade Projects for finally a
 
 # Stage One: Eye for an Eye!!
 Not once since the Montreal Screwjob have WWE / WWF fans had to endure such an atrocity as we just witnessed... https://en.wikipedia.org/wiki/Montreal_Screwjob<br>
-<img src="https://github.com/ArcadeHustle/X3_USB_softmod/blob/master/screwjob.jpg">
+<img src="https://github.com/ArcadeHustle/X3_Multi_Eye_for_an_Eye/blob/master/screwjob.jpg">
 
 In an unprecidented refusal, Mitsurugi_w & Darksoft have NOT accepted the Eye for an Eye challenge issued by Rey Mysterio on behalf of the Arcade Hustle tag team. 
 Seemingly afraid of the fact that the Arcade Hustle team would have taken "both their eyes", the Darkdawg Arcade team spokesman Mitsu remains silent to this day 
@@ -24,16 +24,16 @@ Rey Mysterio even came out of recovery to make the announcemnt, and the Darkdawg
 [![Eye for Eye](http://img.youtube.com/vi/OIGluLvyM90/0.jpg)](https://www.youtube.com/watch?v=OIGluLvyM90)<br>
 
 <p align="center">
-  <img src="https://github.com/ArcadeHustle/X3_USB_softmod/blob/master/rey.png"><br>https://www.wwe.com/shows/extremerules/article/update-rey-mysterio-eye-for-an-eye-match
+  <img src="https://github.com/ArcadeHustle/X3_Multi_Eye_for_an_Eye/blob/master/rey.png"><br>https://www.wwe.com/shows/extremerules/article/update-rey-mysterio-eye-for-an-eye-match
 </p>
 
 Rumor has it that fears of COVID19 are what Mitsu and Dark are hanging their hats on as opposed to admiting their fear. Having nearly lost Brizzo earlier in the year after 
 he announced that he had "got home from <his> last trip for the year on Nov 25, and <has> been beyond sick since", the Darkdawg team seems weary to lose any steam. 
 https://www.arcade-projects.com/forums/index.php?thread/9697-brezzasoft-crystal-system-conversions/&postID=186286
-<img src="https://github.com/ArcadeHustle/X3_USB_softmod/blob/master/badbrizzo.png">
+<img src="https://github.com/ArcadeHustle/X3_Multi_Eye_for_an_Eye/blob/master/badbrizzo.png">
 
 Ryback did say "Now is the time for ALL wrestling talent to stand together and refuse to perform", but this does not make the refusal any less disrespectful in this case!
-<img src="https://github.com/ArcadeHustle/X3_USB_softmod/blob/master/ryback.jpg">
+<img src="https://github.com/ArcadeHustle/X3_Multi_Eye_for_an_Eye/blob/master/ryback.jpg">
 https://twitter.com/Ryback/status/1249373453175537664
 
 Even though Mitsurugi_w, Darksoft, and their ringside manager Brizzo all continue to refuse to perform, we know the show must go on! After the sickening Darkdawg Arcade team refusal to participate in the Eye for an Eye Match, the only thing to make it right will be for an X3 multi to be released.
