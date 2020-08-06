@@ -40,7 +40,7 @@ Even though Mitsurugi_w, Darksoft, and their ringside manager Brizzo all continu
 
 # Stage 1 
 
-This Eye for an Eye match has been a long time coming... just over a year ago the roots of this release were shared in it's sister writeup. https://github.com/ArcadeHustle/X3_USB_softmod
+The Mitsu+Dark Eye for an Eye match had been a long time coming... just over a year ago the roots of this release were shared in it's sister writeup. https://github.com/ArcadeHustle/X3_USB_softmod. It is a shame the team has snubbed the match. 
 
 Immediately the Darkdawg arcade team began throwing salt as if Mr Fuji had come out of retirement. https://en.wikipedia.org/wiki/Mr._Fuji<br>
 Fuji, not unlike Brizzo was famous for often throwing salt in the eyes of fan favorite wrestlers!
