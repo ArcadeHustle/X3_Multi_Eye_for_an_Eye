@@ -49,10 +49,10 @@ https://www.arcade-projects.com/forums/index.php?thread/10038-fake-arcade-projec
 Ekorz or course can spot a fake from a mile away, and also declared the information appropriately as such: "it’s fake"
 https://www.arcade-projects.com/forums/index.php?thread/10038-fake-arcade-projects-twitter-account/&postID=161785#post161785
 
-Someone accepted the challenge over a year ago, and this fake work casually began, now a year later it has been casually completed. 
-https://www.youtube.com/watch?v=ov-jTtpnoco&feature=youtu.be
-https://www.youtube.com/watch?v=MsTuE0KCqqA&feature=youtu.be
-https://www.youtube.com/watch?v=4r0KS7z2TCA&feature=youtu.be
+Someone accepted the challenge over a year ago, and this fake work casually began, now a year later it has been casually completed. <br>
+https://www.youtube.com/watch?v=ov-jTtpnoco&feature=youtu.be<br>
+https://www.youtube.com/watch?v=MsTuE0KCqqA&feature=youtu.be<br>
+https://www.youtube.com/watch?v=4r0KS7z2TCA&feature=youtu.be<br>
 
 In the mean time private sales of NXL2 games have increased in private messages & DM's on Arcade Projects, UKVAC, and Facebook. 
 
