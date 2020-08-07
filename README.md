@@ -51,6 +51,8 @@ https://www.arcade-projects.com/forums/index.php?thread/10038-fake-arcade-projec
 
 Someone accepted the challenge over a year ago, and this fake work casually began, now a year later it has been casually completed. 
 https://www.youtube.com/watch?v=ov-jTtpnoco&feature=youtu.be
+https://www.youtube.com/watch?v=MsTuE0KCqqA&feature=youtu.be
+https://www.youtube.com/watch?v=4r0KS7z2TCA&feature=youtu.be
 
 In the mean time private sales of NXL2 games have increased in private messages & DM's on Arcade Projects, UKVAC, and Facebook. 
 
@@ -99,6 +101,7 @@ With this password you simply need to disable the onboard security checks
 # Stage 3 
 
 Without further delay, the multi image in both Yoko, and Tate... 
+Please note this is the JVS version. There are other variants. 
 https://archive.org/details/x-3-multi-jvs-tate-no-roms.-7z
 (Yoko will be up soon)
 
