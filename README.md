@@ -33,7 +33,7 @@ https://twitter.com/Ryback/status/1249373453175537664
 
 Even though Mitsurugi_w, Darksoft, and their ringside manager Brizzo all continue to refuse to perform, we know the show must go on! After the sickening Darkdawg Arcade team refusal to participate in the Eye for an Eye Match, the only thing to make it right will be for an X3 multi to be released.
 
-## How to cook beef 
+## How to cook beef: Let it simmer. (https://www.youtube.com/watch?v=94bNyh6BBB0)
 
 The Mitsu+Dark Eye for an Eye match had been a long time coming... It is a shame the team has snubbed the match. Just over a year ago the roots of this release were shared in it's sister writeup. https://github.com/ArcadeHustle/X3_USB_softmod. 
 
