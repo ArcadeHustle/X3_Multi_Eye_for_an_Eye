@@ -33,7 +33,7 @@ https://twitter.com/Ryback/status/1249373453175537664
 
 Even though Mitsurugi_w, Darksoft, and their ringside manager Brizzo all continue to refuse to perform, we know the show must go on! After the sickening Darkdawg Arcade team refusal to participate in the Eye for an Eye Match, the only thing to make it right will be for an X3 multi to be released.
 
-# Stage 1 
+## How to cook beef 
 
 The Mitsu+Dark Eye for an Eye match had been a long time coming... It is a shame the team has snubbed the match. Just over a year ago the roots of this release were shared in it's sister writeup. https://github.com/ArcadeHustle/X3_USB_softmod. 
 
@@ -76,7 +76,7 @@ https://www.arcade-projects.com/forums/index.php?thread/9041-x3-street-fighter-i
 Both SFV & Samurai Showdown drives debuted for 1000euro earlier this year in May!
 https://twitter.com/arcade_projects/status/1263123935127834624
 
-# Stage 2 
+# Stage Two 
 
 Lets cut to the chase... making a multi on X3 is simple. First you are going to need to get into the bios. You may think to try "open says a me!" as the password, instead
 I suggest "open you" in Norweigan instead. https://translate.google.com/#view=home&op=translate&sl=auto&tl=en&text=opent%20deg
@@ -98,13 +98,11 @@ This translates to: opentdeg
 
 With this password you simply need to disable the onboard security checks 
 
-# Stage 3 
+# Final Boss: 
 
-Without further delay, the multi image in both Yoko, and Tate... Please note this is the JVS version. There are other variants.<br>
+Without further delay, we present the Taito X3 multi image in both Yoko, and Tate... Please note this is the JVS version. There are other variants available in private... you know who to PM for details!<br>
 https://archive.org/details/x-3-multi-jvs-tate-no-roms.-7z<br>
 https://archive.org/details/x-3-multi-jvs-yoko-noroms-final.-7z<br>
-
-Have fun! Be safe! We will be back with more soon.
 
 Simply enter the password shown above in the BIOS.<br>
 <img src="https://github.com/ArcadeHustle/X3_Multi_Eye_for_an_Eye/blob/master/IMG_1393.jpg">
@@ -112,6 +110,8 @@ Simply enter the password shown above in the BIOS.<br>
 Disable security, write yourself a new drive, and enjoy!<br>
 <img src="https://github.com/ArcadeHustle/X3_Multi_Eye_for_an_Eye/blob/master/IMG_1394.jpg">
  
+Have fun! Be safe! We will be back with more soon.
+
 Official video tutorial for the Taito X3 Multi - Eye for an Eye edition, by Mitsu (as usual!) can be found here: https://www.youtube.com/watch?v=l0nq1pQXX90
 
 
