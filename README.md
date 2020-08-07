@@ -86,8 +86,8 @@ Ctrl + Alt + F9
 
 The password was recoverd via a known technique with the help of UEFITool. 
 https://gist.github.com/en4rab/550880c099b5194fbbf3039e3c8ab6fd
+https://github.com/LongSoft/UEFITool<br>
 
-https://github.com/LongSoft/UEFITool
 Pulled from UEFITool out of nvram:
 1493E62654BA224D93E0667438079F9A332E8EC1E95444E89F7BFA0E55A2B0350BC9665CC1EF1C83
 
