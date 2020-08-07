@@ -102,7 +102,7 @@ With this password you simply need to disable the onboard security checks
 
 Without further delay, the multi image in both Yoko, and Tate... 
 Please note this is the JVS version. There are other variants. 
-https://archive.org/details/x-3-multi-jvs-tate-no-roms.-7z
+https://archive.org/details/x-3-multi-jvs-tate-no-roms.-7z<br>
 (Yoko will be up soon)
 
 Have fun! Be safe! We will be back with more soon.
