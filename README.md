@@ -56,7 +56,7 @@ https://www.youtube.com/watch?v=4r0KS7z2TCA&feature=youtu.be<br>
 
 In the mean time private sales of NXL2 games have increased in private messages & DM's on Arcade Projects, UKVAC, and Facebook. 
 
-"PM incoming." - Rewrite
+"PM incoming." - Rewrite<br>
 https://www.arcade-projects.com/forums/index.php?thread/10328-type-x3-nessica-live-offline/&postID=166588
 
 Sales kicked up so quickly that the Taito X3 forum on Arcade Projects needed to be deleted with malice! 
